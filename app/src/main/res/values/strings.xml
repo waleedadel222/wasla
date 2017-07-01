@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">wasel</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="GoStudent">Go To Student Tab</string>
+    <string name="StudentTabActivity">StudentTabs</string>
+
+    <string name="walsaTitle"> WASLA,,, </string>
+    <string name="subTitle"> ,Stay Connected, </string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <string name="student">Student</string>
+    <string name="stuff">Stuff</string>
+
+    <string name="login">LogIn</string>>
+
+
+    <string name="titleforLV">Title</string>
+    <string name="DateForLV">Date</string>
+    <string name="PublisherLV">Publisher</string>
+    <string name="BodyofLV">Body</string>
+    <string name="ViewYourProfile">View Profile</string>
+    <string name="Exit">Sign Out</string>
+    <string name="GoDoctor">Go TO Stuff Tab</string>
+    <string name="StuffTabActivity">StuffTabs</string>
+    <string name="StuffProfileActivity">profile</string>
+
+</resources>

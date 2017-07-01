@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+  
+  
+    <item
+        android:id="@+id/Out"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        android:title="@string/Exit">
+    </item>
+
+</menu><!-- From: file:/C:/Users/waleed/AndroidStudioProjects/wasel1/app/src/main/res/menu/studentmenu.xml -->

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- Title Label -->
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="6dip"
+        android:textSize="17dip"
+        android:textStyle="bold"/>
+
+    <!-- Date Label-->
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="6dip"
+        />
+
+    <!-- publisher Label -->
+    <TextView
+        android:id="@+id/publisher"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="6dip"
+        android:textSize="17dip"
+        android:textStyle="bold"/>
+
+    <!-- body Label -->
+    <TextView
+        android:id="@+id/body"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="6dip" />
+
+</LinearLayout>
+<!-- From: file:/C:/Users/waleed/AndroidStudioProjects/wasel1/app/src/main/res/layout/listviewlayout.xml -->
